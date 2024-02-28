@@ -22,7 +22,7 @@
   "description": "Get the most accurate weather data with our advanced Weather Facts. Powered by hyper-local forecasts and real-time updates",
   "screenshots": [
     {
-      "src": "/screenshot.png",
+      "src": "https://weather-facts.vercel.app/screenshot.png",
       "type": "image/png",
       "sizes": "540x720",
       "form_factor": "narrow"
