@@ -6,7 +6,7 @@ import Input from "./components/Input";
 import Current from "./components/Current";
 import WeatherDeatils from "./components/WeatherDeatils";
 import WeatherForcast from "./components/WeatherForcast";
-import IconApp from "./images/weather_app.png";
+import IconApp from "./images/Weather_app.png";
 
 function Home() {
   const [data, setData] = useState<any>({});
